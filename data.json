@@ -1,0 +1,1280 @@
+[
+    {
+        "Name": "Activiti Modeler",
+        "Version": "",
+        "URL": "http:\/\/activiti.org\/components.html",
+        "Creator": "Alfresco and the Activiti community",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2010-05-17",
+        "Latest Release": "2014-10-16",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "ActiveVOS",
+        "Version": "",
+        "URL": "http:\/\/activiti.org\/components.html",
+        "Creator": "Informatica",
+        "Platform\/OS": "Windows, Linux",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2005",
+        "Latest Release": "2014",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "ADONIS (software)",
+        "Version": "",
+        "URL": "http:\/\/www.boc-group.com\/de\/produkte\/adonis\/",
+        "Creator": "BOC Information Technologies Consulting AG",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "1995",
+        "Latest Release": "2012",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "Agiles BPMS & ECM",
+        "Version": "",
+        "URL": "http:\/\/www.imagetec.com.br\/ag_conceitos_ing.html",
+        "Creator": "IMAGE Technology S.A.",
+        "Platform\/OS": "Windows, Linux,Mac",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2003-10",
+        "Latest Release": "2013-09",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "Altova UModel",
+        "Version": "",
+        "URL": "http:\/\/www.altova.com\/de\/umodel.html",
+        "Creator": "Altova",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 1.1, 2.0",
+        "First Release": "2005",
+        "Latest Release": "2013-06-12",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "ARCWAY Cockpit",
+        "Version": "",
+        "URL": "http:\/\/www.arcway.com\/",
+        "Creator": "ARCWAY AG",
+        "Platform\/OS": "Windows, Mac (Linux unofficially)",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2005",
+        "Latest Release": "2014",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "ARIS Express",
+        "Version": "",
+        "URL": "http:\/\/www.ariscommunity.com\/aris-express",
+        "Creator": "Software AG",
+        "Platform\/OS": "Windows (and Linux, Mac unofficially)",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2009-07-28",
+        "Latest Release": "2012-12-19",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "AuraPortal",
+        "Version": "",
+        "URL": "http:\/\/www.auraportal.com\/en\/products-bpm-workflow-software",
+        "Creator": "AuraPortal",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2001",
+        "Latest Release": "",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "Bizagi BPM Suite",
+        "Version": "",
+        "URL": "http:\/\/www.bizagi.com\/en\/bpm-suite",
+        "Creator": "Bizagi",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "",
+        "Latest Release": "",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "Bizagi Process Modeler",
+        "Version": "",
+        "URL": "http:\/\/www.bizagi.com\/en\/bpm-suite\/bpm-products\/modeler",
+        "Creator": "Bizagi",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "",
+        "Latest Release": "",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "BiZZdesign Architect",
+        "Version": "",
+        "URL": "http:\/\/bizzdesign.com\/tools\/bizzdesign-architect\/",
+        "Creator": "BiZZdesign",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2012",
+        "Latest Release": "2014",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "BPMN Visio Modeler",
+        "Version": "",
+        "URL": "http:\/\/www.bpmnvisiomodeler.com\/",
+        "Creator": "Trisotech",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2010",
+        "Latest Release": "Bi-yearly",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": true,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "BPMN Web Modeler",
+        "Version": "",
+        "URL": "http:\/\/www.bpmnwebmodeler.com\/",
+        "Creator": "Trisotech",
+        "Platform\/OS": "Cloud",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2012",
+        "Latest Release": "Bi-monthly",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": true,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "Bonita BPM",
+        "Version": "",
+        "URL": "http:\/\/www.bonitasoft.com\/",
+        "Creator": "Bonitasoft",
+        "Platform\/OS": "Windows, Linux,Mac",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2001",
+        "Latest Release": "2014-07-02",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        }
+    },
+    {
+        "Name": "Borland Together",
+        "Version": "",
+        "URL": "http:\/\/www.bonitasoft.com\/",
+        "Creator": "Borland",
+        "Platform\/OS": "Windows, Linux,Mac, Solaris",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "",
+        "First Release": "",
+        "Latest Release": "2009-07-04",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": true,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "Camunda Modeler",
+        "Version": "",
+        "URL": "http:\/\/camunda.org\/bpmn\/tool\/",
+        "Creator": "Camunda",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2013",
+        "Latest Release": "2014-03-31",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "Cubetto",
+        "Version": "",
+        "URL": "http:\/\/cubetto.semture.de\/en\/",
+        "Creator": "semture GmbH",
+        "Platform\/OS": "iOS, Android",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2012-05",
+        "Latest Release": "2013-08",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "Cubetto Toolset",
+        "Version": "",
+        "URL": "http:\/\/cubetto.semture.de\/en\/cubetto-toolset",
+        "Creator": "semture GmbH",
+        "Platform\/OS": "Windows, Mac,Linux",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2003",
+        "Latest Release": "2013-08",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "Eclipse BPMN2 Modeler",
+        "Version": "",
+        "URL": "http:\/\/eclipse.org\/bpmn2-modeler\/",
+        "Creator": "Eclipse.org. Eclipse SOA project.",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2011",
+        "Latest Release": "2014",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Enterprise Architect",
+        "Version": "",
+        "URL": "http:\/\/www.sparxsystems.de\/",
+        "Creator": "Sparx Systems",
+        "Platform\/OS": "Windows, Linux,Mac",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2000",
+        "Latest Release": "2015-01",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Intellileap Solutions",
+        "Version": "",
+        "URL": "",
+        "Creator": "IntelliPROBPMS",
+        "Platform\/OS": "Windows Cloud & On-premise",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2013",
+        "Latest Release": "2013-14",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Genexus WorkFlow",
+        "Version": "",
+        "URL": "http:\/\/www.genexus.com\/products\/business-process-management-suite?en",
+        "Creator": "Artech",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "",
+        "Latest Release": "2012-03",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "HP Process Automation",
+        "Version": "",
+        "URL": "http:\/\/www.autonomy.com\/products\/process-automation",
+        "Creator": "HP",
+        "Platform\/OS": "Java \/ Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2000",
+        "Latest Release": "2013",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "IBM BlueWorks Live",
+        "Version": "",
+        "URL": "https:\/\/www.blueworkslive.com",
+        "Creator": "IBM",
+        "Platform\/OS": "Cloud (browser based)",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "",
+        "Latest Release": "",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "IBM Process Designer",
+        "Version": "",
+        "URL": "http:\/\/www-01.ibm.com\/support\/knowledgecenter\/SSNKAY\/com.ibm.wbpm.wle.editor.doc\/common\/topic\/starting_ae.html",
+        "Creator": "IBM",
+        "Platform\/OS": "eclipse based tool for creating executable processes",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0+",
+        "First Release": "",
+        "Latest Release": "",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "IBM Rational System Architect",
+        "Version": "",
+        "URL": "http:\/\/www-03.ibm.com\/software\/products\/de\/ratisystarch",
+        "Creator": "IBM",
+        "Platform\/OS": "Enterprise Architecture tool",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0+",
+        "First Release": "",
+        "Latest Release": "2014-09",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "iGrafx Flowcharter, iGrafx Process",
+        "Version": "",
+        "URL": "http:\/\/www.igrafx.com\/de\/products\/process-modeling-analysis\/flowcharter",
+        "Creator": "iGrafx",
+        "Platform\/OS": "Windows andCross-platform (via iGrafx Cloud)",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "1988",
+        "Latest Release": "2012",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "INNOVATOR for Business Analysts",
+        "Version": "",
+        "URL": "http:\/\/www.mid.de\/produkte\/innovator-for-business-analysts.html",
+        "Creator": "MID GmbH",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2010",
+        "Latest Release": "2012",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "jBPM",
+        "Version": "",
+        "URL": "http:\/\/www.jbpm.org\/",
+        "Creator": "Redhat",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "",
+        "Latest Release": "2014-08-02",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "jBPMN",
+        "Version": "",
+        "URL": "http:\/\/plugins.netbeans.org\/plugin\/50735\/jbpmn",
+        "Creator": "NetBeans Community project.",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2013",
+        "Latest Release": "2014",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Logizian",
+        "Version": "",
+        "URL": "",
+        "Creator": "Visual Paradigm",
+        "Platform\/OS": "Windows, Linux, OS X, Solaris",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2013-12-16",
+        "Latest Release": "2014-04-03",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "LucidChart",
+        "Version": "",
+        "URL": "https:\/\/www.lucidchart.com",
+        "Creator": "Lucid Software Inc",
+        "Platform\/OS": "Cross-platform(browser based)",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2011",
+        "Latest Release": "twice a month",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "MagicDraw",
+        "Version": "",
+        "URL": "http:\/\/www.nomagic.com\/products\/magicdraw.html",
+        "Creator": "No Magic",
+        "Platform\/OS": "Windows, Linux,Mac",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2007-09-24",
+        "Latest Release": "2014-06-02",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": true,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Microsoft Visio2013",
+        "Version": "",
+        "URL": "http:\/\/products.office.com\/de-de\/visio\/flowchart-software",
+        "Creator": "Microsoft",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "",
+        "First Release": "",
+        "Latest Release": "2013",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Modelio",
+        "Version": "",
+        "URL": "https:\/\/www.modelio.org\/",
+        "Creator": "Modeliosoft",
+        "Platform\/OS": "Windows, Linux,Mac OS",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2009",
+        "Latest Release": "2014-10-01",
+        "License": {
+            "free": false,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "OmniGraffle",
+        "Version": "",
+        "URL": "https:\/\/www.omnigroup.com\/omnigraffle",
+        "Creator": "Omni Group",
+        "Platform\/OS": "Mac",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": false,
+            "Mac": true,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "",
+        "First Release": "",
+        "Latest Release": "2010",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Pega 7",
+        "Version": "",
+        "URL": "http:\/\/www.pega.com\/products\/pega-7#tab-bpm",
+        "Creator": "Pegasystems Inc.",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "1991",
+        "Latest Release": "2014",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "ProcessCraft",
+        "Version": "",
+        "URL": "https:\/\/play.google.com\/store\/apps\/details?id=com.showgen.processcraft&hl=de",
+        "Creator": "Tabtou Ltd",
+        "Platform\/OS": "iOS, Android,Windows, Linux, OS X",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "",
+        "Latest Release": "2012-05-10",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Process Modeler for Microsoft Visio",
+        "Version": "",
+        "URL": "http:\/\/www.itp-commerce.com\/",
+        "Creator": "itp commerce ag",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2003",
+        "Latest Release": "2014-09-18",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "QPR ProcessDesigner",
+        "Version": "",
+        "URL": "http:\/\/www.qpr.com\/products\/qpr-processdesigner.htm",
+        "Creator": "QPR Software Plc.",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2002-01",
+        "Latest Release": "2014-01",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "QUAM",
+        "Version": "",
+        "URL": "https:\/\/www.lintra.de\/de\/Pages\/quam.aspx",
+        "Creator": "LINTRA Solutions GmbH",
+        "Platform\/OS": "MicrosoftSharePoint",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2007",
+        "Latest Release": "2013",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "RunaWFE",
+        "Version": "",
+        "URL": "http:\/\/runawfe.org",
+        "Creator": "Runa Consulting Group",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2004",
+        "Latest Release": "2014-08-01",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "SemTalk",
+        "Version": "",
+        "URL": "http:\/\/www.semtation.de\/",
+        "Creator": "Semtation GmbH",
+        "Platform\/OS": "Windows, SharePoint, MS Visio",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2001",
+        "Latest Release": "2014-05",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Signavio Process Editor",
+        "Version": "",
+        "URL": "http:\/\/www.signavio.com\/products\/process-editor\/saas-vs-on-premise\/",
+        "Creator": "Signavio",
+        "Platform\/OS": "Cloud or On-premise (Windows, Linux) server), Client-side browser",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2009",
+        "Latest Release": "updated monthly",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Software Ideas Modeler",
+        "Version": "",
+        "URL": "https:\/\/www.softwareideas.net\/",
+        "Creator": "Dusan Rodina",
+        "Platform\/OS": "Windows, Linux",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2009-08",
+        "Latest Release": "2014-02",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Stages",
+        "Version": "",
+        "URL": "http:\/\/stages.methodpark.de\/",
+        "Creator": "Method Park",
+        "Platform\/OS": "Cross-Platform, Cloud and On-Premise",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "",
+        "First Release": "2002",
+        "Latest Release": "2014-03",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "SYDLE SEED Community",
+        "Version": "",
+        "URL": "http:\/\/www.sydle.com\/en\/bpms\/",
+        "Creator": "SYDLE Systems",
+        "Platform\/OS": "Cloud (browser based)",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "",
+        "First Release": "2012-07",
+        "Latest Release": "2012-07",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "TIBCO ActiveMatrix",
+        "Version": "",
+        "URL": "http:\/\/www.tibco.com\/products\/automation\/application-integration\/activematrix-businessworks",
+        "Creator": "TIBCO Software Inc.",
+        "Platform\/OS": "Linux, AIX, HP-UX,Solaris, Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2010-05",
+        "Latest Release": "2013-02",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Triaster",
+        "Version": "",
+        "URL": "http:\/\/www.triaster.co.uk\/",
+        "Creator": "Triaster",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "",
+        "First Release": "",
+        "Latest Release": "2014-09",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Visible Analyst",
+        "Version": "",
+        "URL": "http:\/\/www.visible.com\/products\/analyst\/index.htm",
+        "Creator": "Visible Systems",
+        "Platform\/OS": "Windows, Citrix",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN",
+        "First Release": "2007",
+        "Latest Release": "2013",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Visual Paradigm",
+        "Version": "",
+        "URL": "http:\/\/www.visual-paradigm.com\/features\/business-process-modeling\/",
+        "Creator": "Visual Paradigm International",
+        "Platform\/OS": "Windows Cloud & On-premise",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "",
+        "Latest Release": "",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "W4 BPMN+",
+        "Version": "",
+        "URL": "http:\/\/www.w4software.com\/",
+        "Creator": "W4 Software",
+        "Platform\/OS": "Windows, Mac,Linux\/Unix",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN2.0",
+        "First Release": "2014-01",
+        "Latest Release": "2014-01",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "Yaoqiang BPMN Editor",
+        "Version": "",
+        "URL": "http:\/\/bpmn.sourceforge.net\/",
+        "Creator": "\u53f2\u8000\u5f3a (Blenta) (Sourceforge ID)",
+        "Platform\/OS": "Java \/ Windows,Linux, Mac, Solaris",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2010-05-27",
+        "Latest Release": "2014-11-16",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": true
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "yEd",
+        "Version": "",
+        "URL": "http:\/\/www.yworks.com\/en\/products\/yfiles\/yed\/",
+        "Creator": "yWorks",
+        "Platform\/OS": "Windows, Mac,Linux\/Unix",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "",
+        "Latest Release": "2013-03",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    }
+]

@@ -1,0 +1,62 @@
+/* Google Webfonts */
+@import url(https://fonts.googleapis.com/css?family=Exo+2:600,900|Open+Sans);
+
+/* Basic styles */
+* {
+	font-family: 'Open Sans';
+}
+
+h1, th, .navbar-brand {
+	font-family: 'Exo 2';
+	font-weight: 600;
+}
+
+h1 {
+	font-size: 5rem;
+	font-weight: 900;
+}
+
+/* Main container styles */
+.content-container {
+	padding: 0 40px 840px;
+}
+
+/* Navbar styles */
+.primary-nav {
+	padding: 0px 40px 0px 30px;
+}
+
+.pill-nav {
+	margin: 20px auto;
+}
+
+.navbar-brand {
+	margin-right: 30px;
+}
+
+/* Table widths */
+.key-name { width: 10% }
+.key-creator { width: 20% }
+.key-os { width: 10% }
+.key-platform { width: 20% }
+.key-version { width: 10% }
+.key-first-release { width: 10% }
+.key-latest-release { width: 10% }
+.key-license { width: 10% }
+
+/* License and OS labels */
+.license-true span, .os-true span {
+	font-weight: bold;
+}
+
+.license-false span, .os-false span {
+	background-color: #efefef;
+	color: #dedede;
+	font-weight: bold;
+}
+
+/* Section margins */
+section#contribute, section#other-resources, section#license {
+	margin-top: 60px;
+	padding-top: 20px;
+}
