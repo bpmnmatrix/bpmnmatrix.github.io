@@ -32,11 +32,10 @@ $(function() {
 					'<td>'+object['BPMN Version']+'</td>'+
 					'<td>'+object['First Release']+'</td>'+
 					'<td>'+object['Latest Release']+'</td>'+
-					'<td class="license-'+object['License']['free']+'"><span class="label label-default">free</span></td>'+
-					'<td class="license-'+object['License']['proprietary']+'"><span class="label label-default">proprietary</span></td>'+
-					'<td class="license-'+object['License']['Shareware']+'"><span class="label label-default">share</span></td>'+
-					'<td class="license-'+object['License']['Open Source']+'"><span class="label label-default">Open Source</span></td>'+
-					// '<td>'+( object['License']['free'] === true) ? 'yes' : 'no' +'</td>'+
+					'<td class="license-'+object['License']['free']+'" title="License: Freeware"><span class="label label-default">free</span></td>'+
+					'<td class="license-'+object['License']['proprietary']+'" title="License: proprietary"><span class="label label-default">proprietary</span></td>'+
+					'<td class="license-'+object['License']['Shareware']+'" title="License: Shareware"><span class="label label-default">share</span></td>'+
+					'<td class="license-'+object['License']['Open Source']+'" title="License: Open Source"><span class="label label-default">Open Source</span></td>'+
 				'</tr>');
 		});
 	});
