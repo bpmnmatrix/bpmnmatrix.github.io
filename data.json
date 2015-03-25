@@ -756,11 +756,11 @@
         "Creator": "No Magic",
         "Platform\/OS": "Windows, Linux,Mac",
         "OS": {
-            "Cross-Platform": false,
+            "Cross-Platform": true,
             "Windows": true,
             "Mac": true,
             "Linux": true,
-            "Unix": false
+            "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
         "First Release": "2007-09-24",
