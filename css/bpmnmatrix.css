@@ -16,6 +16,16 @@ h1 {
 	font-weight: 900;
 }
 
+tbody tr:hover {
+	background-color: #eee !important;
+	font-weight: bold;
+}
+
+tbody tr:hover .license-true .label-default,
+tbody tr:hover .os-true .label-default {
+	background-color: #337ab7;
+}
+
 /* Main container styles */
 .content-container {
 	padding: 0 40px 840px;
