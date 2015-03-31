@@ -510,6 +510,30 @@
         "Software License": ""
     },
     {
+        "Name": "GenMyModel",
+        "Version": "",
+        "URL": "https:\/\/www.genmymodel.com/bpmn-online-tool",
+        "Creator": "Axellience",
+        "Platform\/OS": "Cross-platform(browser based)",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2015",
+        "Latest Release": "March 2015",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
         "Name": "HP Process Automation",
         "Version": "",
         "URL": "http:\/\/www.autonomy.com\/products\/process-automation",
