@@ -894,6 +894,29 @@
         "Software License": ""
     },
     {
+        "Name": "process4.biz BPM",
+        "Version": "",
+        "URL": "http:\/\/www.process4.biz\/en\/solutions\/business-process-management\/", 
+        "Creator": "process4.biz Softwareentwicklungs- und Vertriebs GmbH",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0, 1.2",
+        "First Release": "2003",
+        "Latest Release": "2015-03",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "ProcessCraft",
         "Version": "",
         "URL": "https:\/\/play.google.com\/store\/apps\/details?id=com.showgen.processcraft&hl=de",
