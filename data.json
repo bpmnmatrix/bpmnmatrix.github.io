@@ -14,12 +14,12 @@
         },
         "BPMN Version": "BPMN 2.0",
         "First Release": "2010-05-17",
-        "Latest Release": "2014-10-16",
+        "Latest Release": "2014-12-18",
         "License": {
             "free": true,
             "proprietary": false,
             "Shareware": false,
-            "Open Source": false
+            "Open Source": true
         }
     },
     {
