@@ -299,6 +299,29 @@
         }
     },
     {
+        "Name": "bpmn.io",
+        "Version": "",
+        "URL": "http:\/\/bpmn.io\/",
+        "Creator": "Camunda Services GmbH",
+        "Platform\/OS": "Cloud",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "Feb 2014",
+        "Latest Release": "Apr 2015",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "Bonita BPM",
         "Version": "",
         "URL": "http:\/\/www.bonitasoft.com\/",
