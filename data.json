@@ -1107,6 +1107,29 @@
         },
         "Software License": ""
     },
+		{
+			"Name": "simpl4",
+			"Version": "",
+			"URL": "http:\/\/www.simpl4.org",
+			"Creator": "transparent solutions GmbH",
+			"Platform\/OS": "Java, Cloud-Platform PaaS\/SaaS",
+			"OS": {
+				"Cross-Platform": true,
+				"Windows": true,
+				"Mac": true,
+				"Linux": true,
+				"Unix": true
+			},
+			"BPMN Version": "BPMN 2.0",
+			"First Release": "2014-09",
+			"Latest Release": "2016-05",
+			"License": {
+				"free": true,
+				"proprietary": false,
+        "Shareware": false,
+				"Open Source": true
+			}
+		},
     {
         "Name": "Software Ideas Modeler",
         "Version": "",
