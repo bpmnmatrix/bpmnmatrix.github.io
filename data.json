@@ -184,6 +184,29 @@
         }
     },
     {
+        "Name": "BeePMN",
+        "Version": "1.0.1",
+        "URL": "www.beepmn.com",
+        "Creator": "ESTECO SpA",
+        "Platform\/OS": "Cloud",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "First Release Date (2016-02-01)",
+        "Latest Release": "Latest Release Date (2016-04-11)",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "Bizagi BPM Suite",
         "Version": "",
         "URL": "http:\/\/www.bizagi.com\/en\/bpm-suite",
@@ -919,7 +942,7 @@
     {
         "Name": "process4.biz BPM",
         "Version": "",
-        "URL": "http:\/\/www.process4.biz\/en\/solutions\/business-process-management\/", 
+        "URL": "http:\/\/www.process4.biz\/en\/solutions\/business-process-management\/",
         "Creator": "process4.biz Softwareentwicklungs- und Vertriebs GmbH",
         "Platform\/OS": "Windows",
         "OS": {
@@ -1107,29 +1130,29 @@
         },
         "Software License": ""
     },
-		{
-			"Name": "simpl4",
-			"Version": "",
-			"URL": "http:\/\/www.simpl4.org",
-			"Creator": "transparent solutions GmbH",
-			"Platform\/OS": "Java, Cloud-Platform PaaS\/SaaS",
-			"OS": {
-				"Cross-Platform": true,
-				"Windows": true,
-				"Mac": true,
-				"Linux": true,
-				"Unix": true
-			},
-			"BPMN Version": "BPMN 2.0",
-			"First Release": "2014-09",
-			"Latest Release": "2016-05",
-			"License": {
-				"free": true,
-				"proprietary": false,
-        "Shareware": false,
-				"Open Source": true
-			}
-		},
+    {
+        "Name": "simpl4",
+        "Version": "",
+        "URL": "http:\/\/www.simpl4.org",
+        "Creator": "transparent solutions GmbH",
+        "Platform\/OS": "Java, Cloud-Platform PaaS\/SaaS",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2014-09",
+        "Latest Release": "2016-05",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        }
+    },
     {
         "Name": "Software Ideas Modeler",
         "Version": "",
