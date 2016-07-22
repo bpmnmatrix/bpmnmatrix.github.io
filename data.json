@@ -186,7 +186,7 @@
     {
         "Name": "BeePMN",
         "Version": "1.0.1",
-        "URL": "www.beepmn.com",
+        "URL": "http:\/\/www.beepmn.com",
         "Creator": "ESTECO SpA",
         "Platform\/OS": "Cloud",
         "OS": {
@@ -197,8 +197,8 @@
             "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
-        "First Release": "First Release Date (2016-02-01)",
-        "Latest Release": "Latest Release Date (2016-04-11)",
+        "First Release": "2016-02-01",
+        "Latest Release": "2016-04-11",
         "License": {
             "free": true,
             "proprietary": true,
