@@ -508,6 +508,29 @@
         "Software License": ""
     },
     {
+        "Name": "HEFLO",
+        "Version": "",
+        "URL": "https:\/\/www.heflo.com\/free-business-process-modeling-software\/",
+        "Creator": "Alfresco and the Activiti community",
+        "Platform\/OS": "Cloud (browser based)",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2015-10-15",
+        "Latest Release": "2016-7-25",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "Intellileap Solutions",
         "Version": "",
         "URL": "",
