@@ -323,25 +323,25 @@
     },
     {
         "Name": "bpmn.io",
-        "Version": "",
+        "Version": "2.0",
         "URL": "http:\/\/bpmn.io\/",
         "Creator": "Camunda Services GmbH",
         "Platform\/OS": "Cloud",
         "OS": {
             "Cross-Platform": true,
-            "Windows": false,
-            "Mac": false,
-            "Linux": false,
-            "Unix": false
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
-        "First Release": "Feb 2014",
-        "Latest Release": "Apr 2015",
+        "First Release": "2014-02",
+        "Latest Release": "2016-07-29",
         "License": {
             "free": true,
             "proprietary": false,
             "Shareware": false,
-            "Open Source": false
+            "Open Source": true
         }
     },
     {
@@ -1371,7 +1371,7 @@
     },
     {
         "Name": "yEd",
-        "Version": "",
+        "Version": "3.16",
         "URL": "http:\/\/www.yworks.com\/en\/products\/yfiles\/yed\/",
         "Creator": "yWorks",
         "Platform\/OS": "Windows, Mac,Linux\/Unix",
@@ -1384,7 +1384,31 @@
         },
         "BPMN Version": "BPMN 2.0",
         "First Release": "",
-        "Latest Release": "2013-03",
+        "Latest Release": "2016-07-15",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        },
+        "Software License": ""
+    },
+    {
+        "Name": "yEd Live",
+        "Version": "",
+        "URL": "http:\/\/www.yworks.com\/yed-live\/",
+        "Creator": "yWorks",
+        "Platform\/OS": "Windows, Mac,Linux\/Unix",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2016-07-25",
+        "Latest Release": "2016-07-25",
         "License": {
             "free": true,
             "proprietary": false,
