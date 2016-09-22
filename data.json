@@ -69,6 +69,29 @@
         }
     },
     {
+        "Name": "Aeneis",
+        "Version": "5.7.93",
+        "URL": "http:\/\/intellior.ag\/software\/funktionalitaeten\/aeneis57-download",
+        "Creator": "Intellior AG",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "",
+        "Latest Release": "2016-09-19",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "Agiles BPMS & ECM",
         "Version": "",
         "URL": "http:\/\/www.imagetec.com.br\/ag_conceitos_ing.html",
