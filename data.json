@@ -680,8 +680,8 @@
         "Creator": "IBM",
         "Platform\/OS": "eclipse based tool for creating executable processes",
         "OS": {
-            "Cross-Platform": true,
-            "Windows": false,
+            "Cross-Platform": false,
+            "Windows": true,
             "Mac": false,
             "Linux": false,
             "Unix": false
