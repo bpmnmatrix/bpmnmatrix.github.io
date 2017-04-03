@@ -746,6 +746,29 @@
         "Software License": ""
     },
     {
+        "Name": "Imixs-Workflow",
+        "Version": "4.1.0",
+        "URL": "http:\/\/www.imixs.org",
+        "Creator": "Imixs",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2006",
+        "Latest Release": "2017",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        }
+    },
+    {
         "Name": "INNOVATOR for Business Analysts",
         "Version": "",
         "URL": "http:\/\/www.mid.de\/produkte\/innovator-for-business-analysts.html",
