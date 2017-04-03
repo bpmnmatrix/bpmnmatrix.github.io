@@ -503,8 +503,7 @@
             "proprietary": false,
             "Shareware": false,
             "Open Source": true
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Enterprise Architect",
@@ -527,8 +526,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "HEFLO",
@@ -574,8 +572,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Genexus WorkFlow",
@@ -598,8 +595,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "GenMyModel",
@@ -622,8 +618,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "HP Process Automation",
@@ -646,8 +641,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "IBM BlueWorks Live",
@@ -670,8 +664,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "IBM Process Designer",
@@ -694,8 +687,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "IBM Rational System Architect",
@@ -718,8 +710,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "iGrafx Flowcharter, iGrafx Process",
@@ -742,8 +733,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Imixs-Workflow",
@@ -789,8 +779,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "jBPM",
@@ -813,8 +802,7 @@
             "proprietary": false,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "jBPMN",
@@ -837,8 +825,7 @@
             "proprietary": false,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Logizian",
@@ -861,8 +848,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "LucidChart",
@@ -885,8 +871,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "MagicDraw",
@@ -909,8 +894,7 @@
             "proprietary": true,
             "Shareware": true,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Microsoft Visio2013",
@@ -933,8 +917,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Modelio",
@@ -957,8 +940,7 @@
             "proprietary": false,
             "Shareware": false,
             "Open Source": true
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "OmniGraffle",
@@ -981,8 +963,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Pega 7",
@@ -1005,8 +986,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "process4.biz BPM",
@@ -1052,8 +1032,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Process Modeler for Microsoft Visio",
@@ -1076,8 +1055,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "QPR ProcessDesigner",
@@ -1100,8 +1078,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "QUAM",
@@ -1124,8 +1101,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "RunaWFE",
@@ -1148,8 +1124,7 @@
             "proprietary": false,
             "Shareware": false,
             "Open Source": true
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "SemTalk",
@@ -1172,8 +1147,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Signavio Process Editor",
@@ -1196,8 +1170,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "simpl4",
@@ -1243,8 +1216,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Stages",
@@ -1267,8 +1239,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "SYDLE SEED Community",
@@ -1291,8 +1262,7 @@
             "proprietary": false,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "TIBCO ActiveMatrix",
@@ -1315,8 +1285,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Triaster",
@@ -1339,8 +1308,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Visible Analyst",
@@ -1363,8 +1331,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Visual Paradigm",
@@ -1387,8 +1354,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "W4 BPMN+",
@@ -1411,8 +1377,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "Yaoqiang BPMN Editor",
@@ -1435,8 +1400,7 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": true
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "yEd",
@@ -1459,8 +1423,7 @@
             "proprietary": false,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "yEd Live",
@@ -1483,8 +1446,7 @@
             "proprietary": false,
             "Shareware": false,
             "Open Source": false
-        },
-        "Software License": ""
+        }
     },
     {
         "Name": "ModelFoundry",
