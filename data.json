@@ -1,28 +1,5 @@
 [
     {
-        "Name": "Activiti Modeler",
-        "Version": "",
-        "URL": "http:\/\/activiti.org\/components.html",
-        "Creator": "Alfresco and the Activiti community",
-        "Platform\/OS": "Cross-platform",
-        "OS": {
-            "Cross-Platform": true,
-            "Windows": false,
-            "Mac": false,
-            "Linux": false,
-            "Unix": false
-        },
-        "BPMN Version": "BPMN 2.0",
-        "First Release": "2010-05-17",
-        "Latest Release": "2014-12-18",
-        "License": {
-            "free": true,
-            "proprietary": false,
-            "Shareware": false,
-            "Open Source": true
-        }
-    },
-    {
         "Name": "ActiveVOS",
         "Version": "",
         "URL": "http:\/\/activiti.org\/components.html",
@@ -43,6 +20,29 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
+        }
+    },
+    {
+        "Name": "Activiti Modeler",
+        "Version": "",
+        "URL": "http:\/\/activiti.org\/components.html",
+        "Creator": "Alfresco and the Activiti community",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2010-05-17",
+        "Latest Release": "2014-12-18",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
         }
     },
     {
@@ -299,6 +299,52 @@
         }
     },
     {
+        "Name": "Bonita BPM",
+        "Version": "",
+        "URL": "http:\/\/www.bonitasoft.com\/",
+        "Creator": "Bonitasoft",
+        "Platform\/OS": "Windows, Linux,Mac",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2001",
+        "Latest Release": "2014-07-02",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        }
+    },
+    {
+        "Name": "Borland Together",
+        "Version": "",
+        "URL": "http:\/\/www.bonitasoft.com\/",
+        "Creator": "Borland",
+        "Platform\/OS": "Windows, Linux,Mac, Solaris",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "",
+        "First Release": "",
+        "Latest Release": "2009-07-04",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": true,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "BPMN Visio Modeler",
         "Version": "",
         "URL": "http:\/\/www.bpmnvisiomodeler.com\/",
@@ -365,52 +411,6 @@
             "proprietary": false,
             "Shareware": false,
             "Open Source": true
-        }
-    },
-    {
-        "Name": "Bonita BPM",
-        "Version": "",
-        "URL": "http:\/\/www.bonitasoft.com\/",
-        "Creator": "Bonitasoft",
-        "Platform\/OS": "Windows, Linux,Mac",
-        "OS": {
-            "Cross-Platform": false,
-            "Windows": true,
-            "Mac": true,
-            "Linux": true,
-            "Unix": false
-        },
-        "BPMN Version": "BPMN 2.0",
-        "First Release": "2001",
-        "Latest Release": "2014-07-02",
-        "License": {
-            "free": true,
-            "proprietary": false,
-            "Shareware": false,
-            "Open Source": true
-        }
-    },
-    {
-        "Name": "Borland Together",
-        "Version": "",
-        "URL": "http:\/\/www.bonitasoft.com\/",
-        "Creator": "Borland",
-        "Platform\/OS": "Windows, Linux,Mac, Solaris",
-        "OS": {
-            "Cross-Platform": false,
-            "Windows": true,
-            "Mac": true,
-            "Linux": true,
-            "Unix": false
-        },
-        "BPMN Version": "",
-        "First Release": "",
-        "Latest Release": "2009-07-04",
-        "License": {
-            "free": false,
-            "proprietary": true,
-            "Shareware": true,
-            "Open Source": false
         }
     },
     {
@@ -529,52 +529,6 @@
         }
     },
     {
-        "Name": "HEFLO",
-        "Version": "",
-        "URL": "https:\/\/www.heflo.com\/free-business-process-modeling-software\/",
-        "Creator": "Venki Tecnologia",
-        "Platform\/OS": "Cloud (browser based)",
-        "OS": {
-            "Cross-Platform": true,
-            "Windows": false,
-            "Mac": false,
-            "Linux": false,
-            "Unix": false
-        },
-        "BPMN Version": "BPMN 2.0",
-        "First Release": "2015-10-15",
-        "Latest Release": "2016-7-25",
-        "License": {
-            "free": true,
-            "proprietary": true,
-            "Shareware": false,
-            "Open Source": false
-        }
-    },
-    {
-        "Name": "Intellileap Solutions",
-        "Version": "",
-        "URL": "",
-        "Creator": "IntelliPROBPMS",
-        "Platform\/OS": "Windows Cloud & On-premise",
-        "OS": {
-            "Cross-Platform": false,
-            "Windows": true,
-            "Mac": false,
-            "Linux": false,
-            "Unix": false
-        },
-        "BPMN Version": "BPMN 2.0",
-        "First Release": "2013",
-        "Latest Release": "2013-14",
-        "License": {
-            "free": false,
-            "proprietary": true,
-            "Shareware": false,
-            "Open Source": false
-        }
-    },
-    {
         "Name": "Genexus WorkFlow",
         "Version": "",
         "URL": "http:\/\/www.genexus.com\/products\/business-process-management-suite?en",
@@ -613,6 +567,29 @@
         "BPMN Version": "BPMN 2.0",
         "First Release": "2015",
         "Latest Release": "March 2015",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "HEFLO",
+        "Version": "",
+        "URL": "https:\/\/www.heflo.com\/free-business-process-modeling-software\/",
+        "Creator": "Venki Tecnologia",
+        "Platform\/OS": "Cloud (browser based)",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2015-10-15",
+        "Latest Release": "2016-7-25",
         "License": {
             "free": true,
             "proprietary": true,
@@ -782,6 +759,29 @@
         }
     },
     {
+        "Name": "Intellileap Solutions",
+        "Version": "",
+        "URL": "",
+        "Creator": "IntelliPROBPMS",
+        "Platform\/OS": "Windows Cloud & On-premise",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2013",
+        "Latest Release": "2013-14",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "jBPM",
         "Version": "",
         "URL": "http:\/\/www.jbpm.org\/",
@@ -920,6 +920,29 @@
         }
     },
     {
+        "Name": "ModelFoundry",
+        "Version": "",
+        "URL": "http:\/\/modelfoundry.com",
+        "Creator": "ModelFoundry Pty. Ltd.",
+        "Platform\/OS": "iOS",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "1.1.0",
+        "Latest Release": "1.1.3",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "Modelio",
         "Version": "",
         "URL": "https:\/\/www.modelio.org\/",
@@ -989,6 +1012,29 @@
         }
     },
     {
+        "Name": "Process Modeler for Microsoft Visio",
+        "Version": "",
+        "URL": "http:\/\/www.itp-commerce.com\/",
+        "Creator": "itp commerce ag",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2003",
+        "Latest Release": "2014-09-18",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "process4.biz BPM",
         "Version": "",
         "URL": "http:\/\/www.process4.biz\/en\/solutions\/business-process-management\/",
@@ -1027,29 +1073,6 @@
         "BPMN Version": "BPMN 2.0",
         "First Release": "",
         "Latest Release": "2012-05-10",
-        "License": {
-            "free": false,
-            "proprietary": true,
-            "Shareware": false,
-            "Open Source": false
-        }
-    },
-    {
-        "Name": "Process Modeler for Microsoft Visio",
-        "Version": "",
-        "URL": "http:\/\/www.itp-commerce.com\/",
-        "Creator": "itp commerce ag",
-        "Platform\/OS": "Windows",
-        "OS": {
-            "Cross-Platform": false,
-            "Windows": true,
-            "Mac": false,
-            "Linux": false,
-            "Unix": false
-        },
-        "BPMN Version": "BPMN 2.0",
-        "First Release": "2003",
-        "Latest Release": "2014-09-18",
         "License": {
             "free": false,
             "proprietary": true,
@@ -1444,29 +1467,6 @@
         "License": {
             "free": true,
             "proprietary": false,
-            "Shareware": false,
-            "Open Source": false
-        }
-    },
-    {
-        "Name": "ModelFoundry",
-        "Version": "",
-        "URL": "http:\/\/modelfoundry.com",
-        "Creator": "ModelFoundry Pty. Ltd.",
-        "Platform\/OS": "iOS",
-        "OS": {
-            "Cross-Platform": false,
-            "Windows": false,
-            "Mac": false,
-            "Linux": false,
-            "Unix": false
-        },
-        "BPMN Version": "BPMN 2.0",
-        "First Release": "1.1.0",
-        "Latest Release": "1.1.3",
-        "License": {
-            "free": false,
-            "proprietary": true,
             "Shareware": false,
             "Open Source": false
         }
