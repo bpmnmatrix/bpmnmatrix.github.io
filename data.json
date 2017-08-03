@@ -414,6 +414,29 @@
         }
     },
     {
+	    "Name": "BPMN Modeler (for Atlassian Confluence)",
+        "Version": "1.0.8",
+        "URL": "http://marketplace.atlassian.com/plugins/de.viadee.confluence.bpmn-plugin/server/overview",
+        "Creator": "viadee IT-Unternehmensberatung GmbH",
+        "Platform/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2016-01",
+        "Latest Release": "2017-07",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "Camunda Modeler",
         "Version": "",
         "URL": "http:\/\/camunda.org\/bpmn\/tool\/",
