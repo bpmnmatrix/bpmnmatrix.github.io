@@ -552,6 +552,29 @@
         }
     },
     {
+        "Name": "Flowable Core",
+        "Version": "6.3.0",
+        "URL": "https:\/\/flowable.org\/",
+        "Creator": "Flowable",
+        "Platform\/OS": "Windows, Linux, Mac",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2012",
+        "Latest Release": "2018-04-05",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        }
+    },
+    {
         "Name": "Genexus WorkFlow",
         "Version": "",
         "URL": "http:\/\/www.genexus.com\/products\/business-process-management-suite?en",
