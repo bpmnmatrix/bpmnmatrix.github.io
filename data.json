@@ -1493,5 +1493,28 @@
             "Shareware": false,
             "Open Source": false
         }
+    },
+    {
+        "Name": "Comindware Business Application Platform",
+        "Version": "",
+        "URL": "https:\/\/comindware.com\/platform\/",
+        "Creator": "Comindware",
+        "Platform\/OS": "Cloud",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2016",
+        "Latest Release": "2018",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
     }
 ]
