@@ -230,6 +230,29 @@
         }
     },
     {
+        "Name": "BIC Cloud",
+        "Version": "5.2",
+        "URL": "https:\/\/www.gbtec.de\/en\/bpm-software-en\/bic-cloud-bpm-suite\/",
+        "Creator": "GBTEC Software + Consulting AG",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": false,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2006",
+        "Latest Release": "March 2019",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "Bizagi BPM Suite",
         "Version": "",
         "URL": "http:\/\/www.bizagi.com\/en\/bpm-suite",
