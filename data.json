@@ -408,9 +408,9 @@
         "Latest Release": "2016-07-29",
         "License": {
             "free": true,
-            "proprietary": false,
+            "proprietary": true,
             "Shareware": false,
-            "Open Source": true
+            "Open Source": false
         }
     },
     {
@@ -454,7 +454,7 @@
         "Latest Release": "2016-11-30",
         "License": {
             "free": true,
-            "proprietary": false,
+            "proprietary": true,
             "Shareware": false,
             "Open Source": true
         }
