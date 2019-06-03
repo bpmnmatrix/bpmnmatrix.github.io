@@ -506,6 +506,29 @@
         }
     },
     {
+        "Name": "Digital Business Transformation Suite",
+        "Version": "11.3.2",
+        "URL": "https:\/\/www.interfacing.com\/enterprise-management-system",
+        "Creator": "Interfacing",
+        "Platform\/OS": "Windows, Cross-platform (browser based), Linux, Unix, Mac",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "1993",
+        "Latest Release": "2018",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "Eclipse BPMN2 Modeler",
         "Version": "",
         "URL": "http:\/\/eclipse.org\/bpmn2-modeler\/",
