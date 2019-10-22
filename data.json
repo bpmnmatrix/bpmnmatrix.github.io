@@ -368,6 +368,29 @@
         }
     },
     {
+        "Name": "BPMN Sketch Miner",
+        "Version": "1.0.9",
+        "URL": "https:\/\/design.inf.usi.ch\/bpmn-sketch-miner",
+        "Creator": "Cesare Pautasso",
+        "Platform\/OS": "Browser",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2019",
+        "Latest Release": "2019",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "BPMN Visio Modeler",
         "Version": "",
         "URL": "http:\/\/www.bpmnvisiomodeler.com\/",
