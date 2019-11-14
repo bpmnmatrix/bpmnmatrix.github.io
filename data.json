@@ -1150,6 +1150,29 @@
         }
     },
     {
+        "Name": "PragmaDev Process",
+        "Version": "1.0",
+        "URL": "http:\/\/www.pragmadev.com\/product\/process.html",
+        "Creator": "PragmaDev",
+        "Platform\/OS": "Windows, Linux, macOS",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2019",
+        "Latest Release": "2019",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "Process Modeler for Microsoft Visio",
         "Version": "",
         "URL": "http:\/\/www.itp-commerce.com\/",
