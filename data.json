@@ -326,7 +326,7 @@
         "Version": "",
         "URL": "http:\/\/www.bonitasoft.com\/",
         "Creator": "Bonitasoft",
-        "Platform\/OS": "Windows, Linux,Mac",
+        "Platform\/OS": "Cloud, Windows, Linux, Mac",
         "OS": {
             "Cross-Platform": false,
             "Windows": true,
@@ -336,7 +336,7 @@
         },
         "BPMN Version": "BPMN 2.0",
         "First Release": "2001",
-        "Latest Release": "2017-06-20",
+        "Latest Release": "2019-07-01",
         "License": {
             "free": true,
             "proprietary": false,
