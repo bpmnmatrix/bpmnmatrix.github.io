@@ -336,10 +336,10 @@
         },
         "BPMN Version": "BPMN 2.0",
         "First Release": "2001",
-        "Latest Release": "2017-06-20",
+        "Latest Release": "2019-12-09",
         "License": {
             "free": true,
-            "proprietary": false,
+            "proprietary": true,
             "Shareware": false,
             "Open Source": true
         }
