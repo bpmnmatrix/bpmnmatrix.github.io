@@ -207,29 +207,6 @@
         }
     },
     {
-        "Name": "BeePMN",
-        "Version": "1.0.1",
-        "URL": "http:\/\/www.beepmn.com",
-        "Creator": "ESTECO SpA",
-        "Platform\/OS": "Cloud",
-        "OS": {
-            "Cross-Platform": true,
-            "Windows": true,
-            "Mac": true,
-            "Linux": true,
-            "Unix": true
-        },
-        "BPMN Version": "BPMN 2.0",
-        "First Release": "2016-02-01",
-        "Latest Release": "2016-04-11",
-        "License": {
-            "free": true,
-            "proprietary": true,
-            "Shareware": false,
-            "Open Source": false
-        }
-    },
-    {
         "Name": "BIC Cloud",
         "Version": "5.2",
         "URL": "https:\/\/www.gbtec.de\/en\/bpm-software-en\/bic-cloud-bpm-suite\/",
@@ -503,6 +480,29 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": true
+        }
+    },
+    {
+        "Name": "Cardanit",
+        "Version": "2.27",
+        "URL": "https:\/\/www.cardanit.com",
+        "Creator": "ESTECO SpA",
+        "Platform\/OS": "Cross-platform (browser based)",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2016-02-01",
+        "Latest Release": "2019-12-05",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
         }
     },
     {
