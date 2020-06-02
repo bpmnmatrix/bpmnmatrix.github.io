@@ -345,6 +345,29 @@
         }
     },
     {
+        "Name": "BPM.WIKI",
+        "Version": "1.0",
+        "URL": "https:\/\/bpm.wiki",
+        "Creator": "process4.biz GmbH",
+        "Platform\/OS": "Browser",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": false,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2019",
+        "Latest Release": "2020",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "BPMN Sketch Miner",
         "Version": "1.0.9",
         "URL": "https:\/\/design.inf.usi.ch\/bpmn-sketch-miner",
