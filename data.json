@@ -900,7 +900,7 @@
         "Name": "jBPM",
         "Version": "",
         "URL": "http:\/\/www.jbpm.org\/",
-        "Creator": "Redhat",
+        "Creator": "Red Hat",
         "Platform\/OS": "Cross-platform",
         "OS": {
             "Cross-Platform": true,
@@ -910,13 +910,13 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-        "First Release": "",
-        "Latest Release": "2014-08-02",
+        "First Release": "2006",
+        "Latest Release": "2020-05-08",
         "License": {
             "free": true,
             "proprietary": false,
             "Shareware": false,
-            "Open Source": false
+            "Open Source": true
         }
     },
     {
