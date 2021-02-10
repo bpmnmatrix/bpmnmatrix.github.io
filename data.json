@@ -23,6 +23,29 @@
         }
     },
     {
+        "Name": "Studio Free",
+        "Version": "7.17.2",
+        "URL": "http:\/\/creatio.com\/studio-free",
+        "Creator": "Creatio",
+        "Platform\/OS": "Windows, Linux, Cloud",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2000",
+        "Latest Release": "2021",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "ActiveVOS",
         "Version": "",
         "URL": "http:\/\/activiti.org\/components.html",
