@@ -207,10 +207,10 @@
         }
     },
     {
-        "Name": "BIC Cloud",
+        "Name": "BIC Platform",
         "Version": "5.2",
         "URL": "https:\/\/www.gbtec.de\/en\/bpm-software-en\/bic-cloud-bpm-suite\/",
-        "Creator": "GBTEC Software + Consulting AG",
+        "Creator": "GBTEC Software AG",
         "Platform\/OS": "Cross-platform",
         "OS": {
             "Cross-Platform": true,
