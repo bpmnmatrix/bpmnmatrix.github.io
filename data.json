@@ -1012,29 +1012,6 @@
         }
     },
     {
-        "Name": "Logizian",
-        "Version": "",
-        "URL": "",
-        "Creator": "Visual Paradigm",
-        "Platform\/OS": "Windows, Linux, OS X, Solaris",
-        "OS": {
-            "Cross-Platform": false,
-            "Windows": true,
-            "Mac": false,
-            "Linux": true,
-            "Unix": false
-        },
-        "BPMN Version": "BPMN 2.0",
-        "First Release": "2013-12-16",
-        "Latest Release": "2014-04-03",
-        "License": {
-            "free": false,
-            "proprietary": true,
-            "Shareware": false,
-            "Open Source": false
-        }
-    },
-    {
         "Name": "LucidChart",
         "Version": "",
         "URL": "https:\/\/www.lucidchart.com",
@@ -1589,19 +1566,19 @@
     {
         "Name": "Visual Paradigm",
         "Version": "",
-        "URL": "http:\/\/www.visual-paradigm.com\/features\/business-process-modeling\/",
+        "URL": "https:\/\/www.visual-paradigm.com\/features\/bpmn-diagram-and-tools\/",
         "Creator": "Visual Paradigm International",
         "Platform\/OS": "Windows Cloud & On-premise",
         "OS": {
-            "Cross-Platform": false,
+            "Cross-Platform": true,
             "Windows": true,
-            "Mac": false,
-            "Linux": false,
-            "Unix": false
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
         "First Release": "",
-        "Latest Release": "",
+        "Latest Release": "2017-09-14",
         "License": {
             "free": false,
             "proprietary": true,
