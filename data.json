@@ -345,6 +345,29 @@
         }
     },
     {
+        "Name": "BPM Software",
+        "Version": "7.0.14",
+        "URL": "https:\/\/creately.com\/lp\/bpm-software-online\/",
+        "Creator": "Creately",
+        "Platform\/OS": "Browser based (cross platform)",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "2.0",
+        "First Release": "2008",
+        "Latest Release": "2021-03-01",
+        "License": {
+            "free": true,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "BPM.WIKI",
         "Version": "1.0",
         "URL": "https:\/\/bpm.wiki",
