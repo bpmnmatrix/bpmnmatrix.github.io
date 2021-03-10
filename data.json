@@ -1633,6 +1633,29 @@
         }
     },
     {
+        "Name": "XML Frames",
+        "Version": "",
+        "URL": "http:\/\/xmlframes.com",
+        "Creator": "Matthieu Giroux",
+        "Platform/OS": "Client/Server",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": false,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "Depends on W4 BPMN+",
+        "First Release": "2009",
+        "Latest Release": "2021",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        }
+    },
+    {
         "Name": "Yaoqiang BPMN Editor",
         "Version": "",
         "URL": "http:\/\/bpmn.sourceforge.net\/",
