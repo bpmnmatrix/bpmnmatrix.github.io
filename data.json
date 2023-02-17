@@ -510,13 +510,13 @@
         "Version": "",
         "URL": "https://www.tomsawyer.com/business-process",
         "Creator": "Tom Sawyer Software",
-        "Platform\/OS": "Windows, Linux, Mac",
+        "Platform\/OS": "Cross-platform",
         "OS": {
-            "Cross-Platform": false,
+            "Cross-Platform": true,
             "Windows": true,
             "Mac": true,
             "Linux": true,
-            "Unix": false
+            "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
         "First Release": "2017",
