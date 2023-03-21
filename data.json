@@ -506,29 +506,6 @@
         }
     },
     {
-        "Name": "Business Process",
-        "Version": "",
-        "URL": "https://www.tomsawyer.com/business-process",
-        "Creator": "Tom Sawyer Software",
-        "Platform\/OS": "Cross-platform",
-        "OS": {
-            "Cross-Platform": true,
-            "Windows": true,
-            "Mac": true,
-            "Linux": true,
-            "Unix": true
-        },
-        "BPMN Version": "BPMN 2.0",
-        "First Release": "2017",
-        "Latest Release": "2022",
-        "License": {
-            "free": false,
-            "proprietary": true,
-            "Shareware": false,
-            "Open Source": false
-        }
-    },
-    {
         "Name": "Camunda Modeler",
         "Version": "",
         "URL": "http:\/\/camunda.org\/bpmn\/tool\/",
@@ -1556,6 +1533,29 @@
         "BPMN Version": "BPMN 2.0",
         "First Release": "2010-05",
         "Latest Release": "2013-02",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
+        "Name": "Tom Sawyer Business Process",
+        "Version": "",
+        "URL": "https:\/\/www.tomsawyer.com\/business-process",
+        "Creator": "Tom Sawyer Software",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2017",
+        "Latest Release": "2022",
         "License": {
             "free": false,
             "proprietary": true,
