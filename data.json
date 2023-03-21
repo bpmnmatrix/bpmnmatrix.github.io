@@ -1220,8 +1220,8 @@
     },
     {
         "Name": "PragmaDev Process",
-        "Version": "2.0",
-        "URL": "http:\/\/www.pragmadev.com\/product\/process.html",
+        "Version": "3.0",
+        "URL": "https:\/\/www.pragmadev.com\/product\/process.html",
         "Creator": "PragmaDev",
         "Platform\/OS": "Windows, Linux, macOS",
         "OS": {
@@ -1233,7 +1233,7 @@
         },
         "BPMN Version": "BPMN 2.0",
         "First Release": "2019",
-        "Latest Release": "2022",
+        "Latest Release": "2023",
         "License": {
             "free": true,
             "proprietary": true,
