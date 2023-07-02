@@ -299,7 +299,7 @@
         }
     },
     {
-        "Name": "Bonita BPM",
+        "Name": "Bonita",
         "Version": "",
         "URL": "http:\/\/www.bonitasoft.com\/",
         "Creator": "Bonitasoft",
@@ -313,7 +313,7 @@
         },
         "BPMN Version": "BPMN 2.0",
         "First Release": "2001",
-        "Latest Release": "2019-07-01",
+        "Latest Release": "2023",
         "License": {
             "free": true,
             "proprietary": false,
