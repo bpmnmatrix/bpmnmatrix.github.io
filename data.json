@@ -391,6 +391,29 @@
         }
     },
     {
+        "Name": "bpmn-visualization",
+        "Version": "2.0",
+        "URL": "https:\/\/process-analytics.dev\/",
+        "Creator": "Bonitasoft",
+        "Platform\/OS": "Browser",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2020-03-09",
+        "Latest Release": "2023 (Bi-monthly)",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        }
+    },
+    {
         "Name": "BPMN Sketch Miner",
         "Version": "1.0.9",
         "URL": "https:\/\/design.inf.usi.ch\/bpmn-sketch-miner",
