@@ -1,5 +1,28 @@
 [
     {
+        "Name": "Apparad Platform",
+        "Version": "",
+        "URL": "https:\/\/www.apparad.com",
+        "Creator": "Apparad",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2023-06-22",
+        "Latest Release": "2023-07-10",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "ActiveVOS",
         "Version": "",
         "URL": "http:\/\/activiti.org\/components.html",
