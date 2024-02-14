@@ -529,7 +529,7 @@
         }
     },
     {
-        "Name": "BPMN Modeler (for Atlassian Confluence)",
+	"Name": "BPMN Modeler (for Atlassian Confluence)",
         "Version": "1.0.8",
         "URL": "http://marketplace.atlassian.com/plugins/de.viadee.confluence.bpmn-plugin/server/overview",
         "Creator": "viadee IT-Unternehmensberatung GmbH",
