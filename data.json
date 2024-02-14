@@ -529,7 +529,7 @@
         }
     },
     {
-	"Name": "BPMN Modeler (for Atlassian Confluence)",
+        "Name": "BPMN Modeler (for Atlassian Confluence)",
         "Version": "1.0.8",
         "URL": "http://marketplace.atlassian.com/plugins/de.viadee.confluence.bpmn-plugin/server/overview",
         "Creator": "viadee IT-Unternehmensberatung GmbH",
@@ -710,6 +710,29 @@
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
+        }
+    },
+    {
+        "Name": "draw.io",
+        "Version": "23.1.4",
+        "URL": "https:\/\/www.drawio.com\/",
+        "Creator": "JGraph Ltd and draw.io AG",
+        "Platform\/OS": "Cross-platform (browser based), Windows, Linux, Mac",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2011",
+        "Latest Release": "2024",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
         }
     },
     {
