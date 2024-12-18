@@ -713,6 +713,29 @@
         }
     },
     {
+        "Name": "draw.io",
+        "Version": "23.1.4",
+        "URL": "https:\/\/www.drawio.com\/",
+        "Creator": "JGraph Ltd and draw.io AG",
+        "Platform\/OS": "Cross-platform (browser based), Windows, Linux, Mac",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2011",
+        "Latest Release": "2024",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        }
+    },
+    {
         "Name": "Eclipse BPMN2 Modeler",
         "Version": "",
         "URL": "http:\/\/eclipse.org\/bpmn2-modeler\/",
