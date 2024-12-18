@@ -828,6 +828,29 @@
         }
     },
     {
+        "Name": "Gluu",
+        "Version": "2.31.4",
+        "URL": "https:\/\/gluu.biz\/",
+        "Creator": "Gluu",
+        "Platform\/OS": "Cloud based",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2011",
+        "Latest Release": "2024 (Frequently updated)",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
+    {
         "Name": "HEFLO",
         "Version": "",
         "URL": "https:\/\/www.heflo.com\/free-business-process-modeling-software\/",
