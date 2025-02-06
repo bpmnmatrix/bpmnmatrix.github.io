@@ -1426,29 +1426,6 @@
         }
     },
     {
-        "Name": "QPR ProcessDesigner",
-        "Version": "",
-        "URL": "http:\/\/www.qpr.com\/products\/qpr-processdesigner.htm",
-        "Creator": "QPR Software Plc.",
-        "Platform\/OS": "Windows",
-        "OS": {
-            "Cross-Platform": false,
-            "Windows": true,
-            "Mac": false,
-            "Linux": false,
-            "Unix": false
-        },
-        "BPMN Version": "BPMN 2.0",
-        "First Release": "2002-01",
-        "Latest Release": "2014-01",
-        "License": {
-            "free": false,
-            "proprietary": true,
-            "Shareware": false,
-            "Open Source": false
-        }
-    },
-    {
         "Name": "ProcessMind",
         "Version": "",
         "URL": "https:\/\/processmind.com",
@@ -1471,6 +1448,29 @@
             "Open Source": false
         }
     },	
+    {
+        "Name": "QPR ProcessDesigner",
+        "Version": "",
+        "URL": "http:\/\/www.qpr.com\/products\/qpr-processdesigner.htm",
+        "Creator": "QPR Software Plc.",
+        "Platform\/OS": "Windows",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": true,
+            "Mac": false,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2002-01",
+        "Latest Release": "2014-01",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },
     {
         "Name": "QUAM",
         "Version": "",
