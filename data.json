@@ -1449,6 +1449,29 @@
         }
     },
     {
+        "Name": "ProcessMind",
+        "Version": "",
+        "URL": "https:\/\/processmind.com",
+        "Creator": "ProcessMind B.V.",
+        "Platform\/OS": "Cross-platform (browser based)",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "18-01-2025",
+        "Latest Release": "18-01-2025",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": false,
+            "Open Source": false
+        }
+    },	
+    {
         "Name": "QUAM",
         "Version": "",
         "URL": "https:\/\/www.lintra.de\/de\/Pages\/quam.aspx",
