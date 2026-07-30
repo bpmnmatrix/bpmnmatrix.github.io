@@ -229,6 +229,29 @@
             "Open Source": false
         }
     },
+	{
+	    "Name": "BESSER Web Modeling Editor",
+	    "Version": "",
+	    "URL": "https://editor.besser-pearl.org/",
+	    "Creator": "BESSER",
+	    "Platform\/OS": "Cross-platform",
+	    "OS": {
+	        "Cross-Platform": true,
+	        "Windows": true,
+	        "Mac": true,
+	        "Linux": true,
+	        "Unix": true
+	    },
+	    "BPMN Version": "BPMN 2.0",
+	    "First Release": "2026-07-01",
+	    "Latest Release": "2026-07-20",
+	    "License": {
+	        "free": true,
+	        "proprietary": false,
+	        "Shareware": false,
+	        "Open Source": true
+	    }
+	}
     {
         "Name": "BIC Platform",
         "Version": "5.2",
