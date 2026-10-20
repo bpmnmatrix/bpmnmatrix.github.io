@@ -251,7 +251,7 @@
 	        "Shareware": false,
 	        "Open Source": true
 	    }
-	}
+	},
     {
         "Name": "BIC Platform",
         "Version": "5.2",
@@ -1607,6 +1607,29 @@
             "proprietary": false,
             "Shareware": false,
             "Open Source": true
+        }
+    },
+    {
+        "Name": "SimpleDiagrams",
+        "Version": "5.1.0",
+        "URL": "https:\/\/simplediagrams.com\/desktop\/bpmn\/",
+        "Creator": "McQuillen Interactive Pty. Ltd.",
+        "Platform\/OS": "Native macOS desktop application",
+        "OS": {
+            "Cross-Platform": false,
+            "Windows": false,
+            "Mac": true,
+            "Linux": false,
+            "Unix": false
+        },
+        "BPMN Version": "BPMN notation (drawing only)",
+        "First Release": "",
+        "Latest Release": "",
+        "License": {
+            "free": false,
+            "proprietary": true,
+            "Shareware": true,
+            "Open Source": false
         }
     },
     {
