@@ -116,22 +116,22 @@
     },
     {
         "Name": "AIxFlow",
-        "Version": "1.1.8",
+        "Version": "1.2.3",
         "URL": "https:\/\/aixflow.aixlab.de",
         "Creator": "AIxLab (J\u00f6rg Schellenberg)",
-        "Platform\/OS": "iPadOS 17 or later (iPad only)",
+        "Platform\/OS": "iPadOS 17 or later, macOS 14 or later",
         "OS": {
             "Cross-Platform": false,
             "Windows": false,
-            "Mac": false,
+            "Mac": true,
             "Linux": false,
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
         "First Release": "2026-07-03",
-        "Latest Release": "2026-10-23",
+        "Latest Release": "2026-11-04",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
