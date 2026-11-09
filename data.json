@@ -62,7 +62,7 @@
         "First Release": "1995",
         "Latest Release": "2012",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
@@ -177,7 +177,7 @@
         "First Release": "2005",
         "Latest Release": "2014",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
@@ -223,35 +223,35 @@
         "First Release": "2001",
         "Latest Release": "2016",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
         }
     },
-	{
-	    "Name": "BESSER Web Modeling Editor",
-	    "Version": "",
-	    "URL": "https://editor.besser-pearl.org/",
-	    "Creator": "BESSER",
-	    "Platform\/OS": "Cross-platform",
-	    "OS": {
-	        "Cross-Platform": true,
-	        "Windows": true,
-	        "Mac": true,
-	        "Linux": true,
-	        "Unix": true
-	    },
-	    "BPMN Version": "BPMN 2.0",
-	    "First Release": "2026-07-01",
-	    "Latest Release": "2026-07-20",
-	    "License": {
-	        "free": true,
-	        "proprietary": false,
-	        "Shareware": false,
-	        "Open Source": true
-	    }
-	},
+    {
+        "Name": "BESSER Web Modeling Editor",
+        "Version": "",
+        "URL": "https:\/\/editor.besser-pearl.org\/",
+        "Creator": "BESSER",
+        "Platform\/OS": "Cross-platform",
+        "OS": {
+            "Cross-Platform": true,
+            "Windows": true,
+            "Mac": true,
+            "Linux": true,
+            "Unix": true
+        },
+        "BPMN Version": "BPMN 2.0",
+        "First Release": "2026-07-01",
+        "Latest Release": "2026-07-20",
+        "License": {
+            "free": true,
+            "proprietary": false,
+            "Shareware": false,
+            "Open Source": true
+        }
+    },
     {
         "Name": "BIC Platform",
         "Version": "5.2",
@@ -407,7 +407,7 @@
         "First Release": "2008",
         "Latest Release": "2021-03-01",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
@@ -430,7 +430,7 @@
         "First Release": "2019",
         "Latest Release": "2020",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
@@ -552,11 +552,11 @@
         }
     },
     {
-	"Name": "BPMN Modeler (for Atlassian Confluence)",
+        "Name": "BPMN Modeler (for Atlassian Confluence)",
         "Version": "1.0.8",
-        "URL": "http://marketplace.atlassian.com/plugins/de.viadee.confluence.bpmn-plugin/server/overview",
+        "URL": "http:\/\/marketplace.atlassian.com\/plugins\/de.viadee.confluence.bpmn-plugin\/server\/overview",
         "Creator": "viadee IT-Unternehmensberatung GmbH",
-        "Platform/OS": "Cross-platform",
+        "Platform\/OS": "Cross-platform",
         "OS": {
             "Cross-Platform": true,
             "Windows": true,
@@ -614,7 +614,7 @@
         "First Release": "2016-02-01",
         "Latest Release": "2019-12-05",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
@@ -853,7 +853,7 @@
     {
         "Name": "GenMyModel",
         "Version": "",
-        "URL": "https:\/\/www.genmymodel.com/bpmn-online-tool",
+        "URL": "https:\/\/www.genmymodel.com\/bpmn-online-tool",
         "Creator": "Axellience",
         "Platform\/OS": "Cross-platform(browser based)",
         "OS": {
@@ -867,7 +867,7 @@
         "First Release": "2015",
         "Latest Release": "March 2015",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
@@ -913,7 +913,7 @@
         "First Release": "2015-10-15",
         "Latest Release": "2016-7-25",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
@@ -1166,7 +1166,7 @@
         "First Release": "2011",
         "Latest Release": "twice a month",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
@@ -1373,7 +1373,7 @@
         "First Release": "2019",
         "Latest Release": "2023",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": false
@@ -1470,7 +1470,7 @@
             "Shareware": false,
             "Open Source": false
         }
-    },	
+    },
     {
         "Name": "QPR ProcessDesigner",
         "Version": "",
@@ -1587,29 +1587,6 @@
         }
     },
     {
-        "Name": "simpl4",
-        "Version": "",
-        "URL": "http:\/\/www.simpl4.org",
-        "Creator": "transparent solutions GmbH",
-        "Platform\/OS": "Java, Cloud-Platform PaaS\/SaaS",
-        "OS": {
-            "Cross-Platform": true,
-            "Windows": true,
-            "Mac": true,
-            "Linux": true,
-            "Unix": true
-        },
-        "BPMN Version": "BPMN 2.0",
-        "First Release": "2014-09",
-        "Latest Release": "2016-05",
-        "License": {
-            "free": true,
-            "proprietary": false,
-            "Shareware": false,
-            "Open Source": true
-        }
-    },
-    {
         "Name": "SimpleDiagrams",
         "Version": "5.1.0",
         "URL": "https:\/\/simplediagrams.com\/desktop\/bpmn\/",
@@ -1695,7 +1672,7 @@
         "First Release": "2012-07",
         "Latest Release": "2012-07",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": false,
             "Shareware": false,
             "Open Source": false
@@ -1840,29 +1817,6 @@
         }
     },
     {
-        "Name": "XML Frames",
-        "Version": "",
-        "URL": "http:\/\/xmlframes.com",
-        "Creator": "Matthieu Giroux",
-        "Platform/OS": "Client/Server",
-        "OS": {
-            "Cross-Platform": true,
-            "Windows": true,
-            "Mac": false,
-            "Linux": true,
-            "Unix": false
-        },
-        "BPMN Version": "Depends on W4 BPMN+",
-        "First Release": "2009",
-        "Latest Release": "2021",
-        "License": {
-            "free": true,
-            "proprietary": false,
-            "Shareware": false,
-            "Open Source": true
-        }
-    },
-    {
         "Name": "Yaoqiang BPMN Editor",
         "Version": "",
         "URL": "http:\/\/bpmn.sourceforge.net\/",
@@ -1879,7 +1833,7 @@
         "First Release": "2010-05-27",
         "Latest Release": "2016-12-24",
         "License": {
-            "free": true,
+            "free": false,
             "proprietary": true,
             "Shareware": false,
             "Open Source": true
